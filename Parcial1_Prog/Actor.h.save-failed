@@ -1,0 +1,10 @@
+
+#define MAX_ACTOR 20
+
+typedef struct
+{
+    int codigo;
+    char nombre[51];
+    char apellido[51];
+    char sexo;
+}Actor;

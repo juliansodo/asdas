@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1570543267 source:d:\juliansodo\parcial1_prog\main.c
+	"Sistema.h"
+	"Actor.h"
+	"Elenco.h"
+	"Genero.h"
+	"Pelicula.h"
+
+1570541993 d:\juliansodo\parcial1_prog\sistema.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1570543288 source:d:\juliansodo\parcial1_prog\actor.c
+	"Actor.h"
+
+1570543586 d:\juliansodo\parcial1_prog\actor.h
+	"Sistema.h"
+
+1570538701 d:\juliansodo\parcial1_prog\elenco.h
+
+1570538738 d:\juliansodo\parcial1_prog\genero.h
+
+1570538709 d:\juliansodo\parcial1_prog\pelicula.h
+
+1570538359 source:d:\juliansodo\parcial1_prog\elenco.c
+	"Elenco.h"
+
+1570538501 source:d:\juliansodo\parcial1_prog\genero.c
+	"Genero.h"
+
+1570538393 d:\juliansodo\parcial1_prog\menu.h
+
+1570538398 source:d:\juliansodo\parcial1_prog\menu.c
+
+1570538343 source:d:\juliansodo\parcial1_prog\pelicula.c
+	"Pelicula.h"
+
+1570540740 source:d:\juliansodo\parcial1_prog\sistema.c
+	"Sistema.h"
+
+1570536128 source:d:\juliansodo\parcial1_prog\untitled2.c
+
